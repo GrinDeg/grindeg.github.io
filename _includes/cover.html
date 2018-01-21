@@ -1,0 +1,17 @@
+<script>
+function change(idName) {
+  if(document.getElementById(idName).style.display=='none') {
+    document.getElementById(idName).style.display = '';
+  } else {
+    document.getElementById(idName).style.display = 'none';
+  }
+  return false;
+}
+</script>
+<a href="#" onclick="change('cover')">Обложка</a>
+<div style="display:none" id="cover">
+<figure>
+  <img src="{{site.baseurl}}{{include.picurl}}"/>
+</figure>
+</div>
+

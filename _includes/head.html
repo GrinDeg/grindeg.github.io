@@ -1,0 +1,16 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ " - " | prepend: page.title }}{% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.image %}
+  <meta property="og:image" content="{{page.image | prepend: site.baseurl | prepend: site.url}}">
+  {% else %}
+  <meta property="og:image" content="{{site.baseurl | prepend: site.url}}/assets/img/main/1.png">
+  {% endif %}
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+</head>

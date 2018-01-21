@@ -1,0 +1,6 @@
+<p class="site-nav">
+{% if page.url == '/' %} Главная {% else %} <a href="{{'/' | prepend: site.baseurl | prepend: site.url }}">Главная</a> {% endif %} / 
+{% if page.url == '/dino/' %} Динозавр мёртв {% else %} <a href="{{'/dino/' | prepend: site.baseurl | prepend: site.url }}">Динозавр мёртв</a> {% endif %} / 
+{% if page.url == '/translate/' %} Переводы {% else %}<a href="{{'/translate/' | prepend: site.baseurl | prepend: site.url }}">Переводы</a> {% endif %} <!-- /
+{% if page.url == '/bullshit/' %} Отсебятина {% else %} <a href="{{'/bullshit' | prepend: site.baseurl | prepend: site.url }}">Отсебятина</a> {% endif %} -->
+</p>
