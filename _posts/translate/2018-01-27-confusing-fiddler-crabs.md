@@ -4,6 +4,7 @@ title:  'Запутанная социальная жизнь манящих к�
 date:   2018-01-27 00:00:00 +0500
 category: translate
 tags: [перевод, наука, научпоп, зоология, экология, крабы, манящий краб, Tubuca elegans, Tubuca signata, Austruca mjoebergi, Kiona Smith]
+image: "/assets/img/confusing_fiddler_crabs/1.png"
 comment: false
 ---
 >Перевод статьи “The Confusing Social Lives of Fiddler Crabs”  K. N. Smith, 26.01.2018
