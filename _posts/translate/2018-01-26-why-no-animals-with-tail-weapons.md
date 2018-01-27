@@ -3,7 +3,8 @@ layout: post
 title:  'Почему сегодня нет животных с “оружием” на хвосте как у анкилозавра или стегозавра?'
 date:   2018-01-26 00:00:00 +0500
 category: translate
-tags: [перевод, наука, научпоп, зоология, палеонтология, анкилозавры, стегозавры, броненосцы, Scutellosaurus, Huayangosaurus, Proganochelys, Meiolania, Doedicurus, Shunosaurus, Franz Anthony]
+tags: [перевод, наука, научпоп, зоология, палеонтология, динозавры, анкилозавры, стегозавры, броненосцы, Scutellosaurus, Huayangosaurus, Proganochelys, Meiolania, Doedicurus, Shunosaurus, Franz Anthony]
+image: "/assets/img/why_no_animals_with_tail_weapons/1.png"
 comment: false
 ---
 >Перевод статьи “Why don’t we see more animals with tail weapons like Stegosaurus or Ankylosaurus?”  Franz Anthony, 22.01.2018
