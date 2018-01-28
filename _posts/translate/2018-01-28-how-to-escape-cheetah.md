@@ -5,6 +5,7 @@ date:   2018-01-28 00:00:00 +0500
 category: translate
 tags: [перевод, наука, научпоп, зоология, гепарды, львы, зебры, антилопы, импалы, STEPH YIN]
 comment: false
+image: "/assets/img/how_to_escape_cheetah/1.png"
 ---
 >Перевод статьи “This Is How You Escape a Cheetah, if You’re an Impala”  By STEPH YIN, 24.01.2018
 [https://www.nytimes.com/2018/01/24/science/cheetahs-lions-zebras-impalas.html](https://www.nytimes.com/2018/01/24/science/cheetahs-lions-zebras-impalas.html)
